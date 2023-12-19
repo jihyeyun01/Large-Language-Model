@@ -39,3 +39,8 @@
 챗봇을 통해 수집된 사용자 데이터와 피드백을 기반으로 지역의 관광 인프라 개선에 기여 
 할 수 있다. 사용자들의 요구와 선호도에 대한 데이터 분석을 통해, 관광 시설, 교통, 서비스 
 품질 등을 개선하고 발전시킬 수 있다.
+
+### 구현
+![1](https://github.com/jihyeyun01/Large-Language-Model/assets/102782740/8f84ecb1-3b41-4e44-b9b1-62d1894d61fc)
+![2](https://github.com/jihyeyun01/Large-Language-Model/assets/102782740/91f29730-20c0-431a-877f-50a9e03292d0)
+
